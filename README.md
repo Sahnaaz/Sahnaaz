@@ -4,7 +4,6 @@
 - 👀 I’m interested in AI, Computer Vision and LLM's
 - 🌱 I’m currently a Junior pursuing B.Tech in Computer Science and Electronics
 - 📫 Reach me @ sahnaaz.mariam@icloud.com
-- ⚡ Fun fact: Always down for idiyappams
 
 
 
