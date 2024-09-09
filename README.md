@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 👋 Hi, I’m @Sahnaaz
-- 👀 I’m interested in creatiing an impact on peoples' lives through tech
+- 👀 I’m interested in creating an impact on peoples' lives through tech
 - 🌱 I’m currently a Junior pursuing B.Tech in Computer Science and Electronics
 - 📫 Reach me @ sahnaaz.mariam@icloud.com
 
